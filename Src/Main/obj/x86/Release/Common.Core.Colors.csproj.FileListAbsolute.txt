@@ -1,0 +1,3 @@
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Colors\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Colors.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Colors\Src\Main\obj\x86\Release\Tamu.GeoInnovation.Common.Core.Colors.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Colors\Src\Main\obj\x86\Release\Common.Core.Colors.csprojResolveAssemblyReference.cache
