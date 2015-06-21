@@ -1,4 +1,0 @@
-C:\DevBuild\Tamu\GeoInnovation\Common\Core\Colors\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.Colors.dll
-C:\DevBuild\Tamu\GeoInnovation\Common\Core\Colors\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.Colors.pdb
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Colors\Src\Main\obj\x86\Debug\Tamu.GeoInnovation.Common.Core.Colors.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Colors\Src\Main\obj\x86\Debug\Tamu.GeoInnovation.Common.Core.Colors.pdb
